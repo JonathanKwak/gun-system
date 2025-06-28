@@ -17,10 +17,10 @@ Note 3: This code was written without widespread user adoption in mind. I quickl
 
 ## File Structure
 gun-system
- -> client.lua # Client-side tool behavior (input, visuals, raycast logic)
- -> server.lua # Server-side hit verification and damage application
- -> config.lua # Weapon stats and rig setup options
- -> README.md
+ - client.lua # Client-side tool behavior (input, visuals, raycast logic)
+ - server.lua # Server-side hit verification and damage application
+ - config.lua # Weapon stats and rig setup options
+ - README.md
 
 ## Setup
 
