@@ -6,6 +6,8 @@ Note 1: This code was written 1–2 years ago and does not reflect my current co
 
 Note 2: This is not a drop-and-go type system. It is not designed to be implemented nor tested outside of ROBLOX studio, especially outside of the kit it was designed for. If you want to test the kit for yourself, download the full kit model here on Roblox:
 https://create.roblox.com/store/asset/9112185857/Senseis-Gun-Kit
+And here's a forum link on the kit:
+https://devforum.roblox.com/t/senseis-gun-kit/1714719/64
 
 Note 3: This code was written without widespread user adoption in mind. I quickly modified a few bits of pre-existing code, made it configurable and published it for some use.
 
