@@ -15,13 +15,6 @@ Note 3: This code was written without widespread user adoption in mind. I quickl
 - Server-side validation of damage to prevent basic client-side manipulation
 - Compatible with mobile devices, not just PC
 
-## File Structure
-gun-system
- - client.lua # Client-side tool behavior (input, visuals, raycast logic)
- - server.lua # Server-side hit verification and damage application
- - config.lua # Weapon stats and rig setup options
- - README.md
-
 ## Setup
 
 1. To start with a gun, just clone the 'Template' and set the tool's handle/looks to whatever you please
